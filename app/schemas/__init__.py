@@ -1,0 +1,1 @@
+#Esquemas de VALIDACIÓN (Pydantic)
